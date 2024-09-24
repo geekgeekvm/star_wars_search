@@ -1,0 +1,79 @@
+
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .logo {
+    width: 300px;
+    margin: 20px 0;
+  }
+  
+  .input-group {
+    margin: 20px 0;
+  }
+  
+  input {
+    margin-right: 20px;
+    padding: 15px;
+    border: 5px solid #ffcc00; /* Yellow border */
+    border-radius: 5px;
+    color: #242323; /* Text color */
+    font-size: x-large;
+    width: 300px;
+  }
+  
+  button {
+    padding: 15px 15px;
+    background-color: #ffcc00;
+    border: 5px solid #ffcc00;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: x-large;
+    color: #242323; /* Text color */
+    width: 300px;
+  }
+  
+  button:hover {
+    background-color: #e6b800;
+  }
+  
+  /* Output styles */
+.output {
+    margin-top: 20px;
+    display: flex; /* Use flexbox for alignment */
+    justify-content: center; /* Center the contents */
+    gap: 15px; /* Space between the count and films area */
+  }
+  
+  .count-box {
+    padding: 15px;
+    background-color: #444; /* Darker background */
+    color: #ffcc00; /* Text color */
+    width: 300px; /* Match input width */
+    text-align: center; /* Center the text */
+    border: 5px solid #ffcc00; /* Yellow border */
+    border-radius: 5px;
+    font-size: x-large;
+  }
+  
+  .films-box {
+    padding: 15px;
+    border: 5px solid #ffcc00; /* Yellow border */
+    border-radius: 5px;
+    background-color: #444; /* Darker background */
+    color: #fff; /* Text color */
+    width: 300px; /* Match input width */
+    min-height: 100px; /* Minimum height */
+    resize: vertical; /* Allow vertical resizing */
+    overflow-y: auto; /* Enable scroll if necessary */
+    font-size: 16px; /* Match font size */
+  }
+
+  h1 {
+    font-size: 96px; /* Adjust size as needed */
+    color: #ffcc00; /* Star Wars yellow */
+    margin-bottom: 50px; /* Space below the header */
+  }
+  

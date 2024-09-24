@@ -1,0 +1,16 @@
+<app-toggle-switch (toggleChange)="onToggleChange($event)"></app-toggle-switch>
+
+<div class="container">
+    <h1>Search Star Wars</h1>
+  
+    <div class="input-group">
+      <input [(ngModel)]="type" placeholder="Enter Type" />
+      <input [(ngModel)]="name" placeholder="Enter Name" />
+      <button (click)="search()">Search</button>
+    </div>
+  
+    <div class="output" *ngIf="count > 0">
+      <div class="count-box">Count: {{ count }}</div>
+      <textarea class="films-box" readonly>{{ films.join('\n') }}</textarea>
+    </div>
+  </div>

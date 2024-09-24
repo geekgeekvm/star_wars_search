@@ -1,0 +1,28 @@
+
+@use '@angular/material' as mat;
+@include mat.core();
+
+// Define the theme object.
+$star-wars-searcher-theme: mat.define-theme((
+  color: (
+    theme-type: dark,
+    primary: mat.$yellow-palette,
+    tertiary: mat.$violet-palette,
+  ),
+  density: (
+    scale: 0,
+  )
+));
+
+
+:root {
+  @include mat.all-component-themes($star-wars-searcher-theme);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+body {
+  background-color: #242323; /* Dark grey background */
+  color: #fff; /* White text color */
+}

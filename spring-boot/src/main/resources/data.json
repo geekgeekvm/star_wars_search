@@ -1,0 +1,1831 @@
+[
+    {
+        "count": 82,
+        "name": "Luke Skywalker",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "C-3PO",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "R2-D2",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Darth Vader",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Leia Organa",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Owen Lars",
+        "films": [
+            "A New Hope",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Beru Whitesun lars",
+        "films": [
+            "A New Hope",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "R5-D4",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Biggs Darklighter",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Obi-Wan Kenobi",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Anakin Skywalker",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Wilhuff Tarkin",
+        "films": [
+            "A New Hope",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Chewbacca",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Han Solo",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Greedo",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Jabba Desilijic Tiure",
+        "films": [
+            "A New Hope",
+            "Return of the Jedi",
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Wedge Antilles",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Jek Tono Porkins",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Yoda",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Palpatine",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Boba Fett",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "IG-88",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Bossk",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Lando Calrissian",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Lobot",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ackbar",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Mon Mothma",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Arvel Crynyd",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Wicket Systri Warrick",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Nien Nunb",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Qui-Gon Jinn",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Nute Gunray",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Finis Valorum",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Padm\u00e9 Amidala",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Jar Jar Binks",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Roos Tarpals",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Rugor Nass",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ric Oli\u00e9",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Watto",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Sebulba",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Quarsh Panaka",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Shmi Skywalker",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Darth Maul",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Bib Fortuna",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ayla Secura",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ratts Tyerel",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Dud Bolt",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Gasgano",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ben Quadinaros",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Mace Windu",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Ki-Adi-Mundi",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Kit Fisto",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Eeth Koth",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Adi Gallia",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Saesee Tiin",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Yarael Poof",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Plo Koon",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Mas Amedda",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Gregar Typho",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Cord\u00e9",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Cliegg Lars",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Poggle the Lesser",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Luminara Unduli",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Barriss Offee",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Dorm\u00e9",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Dooku",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Bail Prestor Organa",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Jango Fett",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Zam Wesell",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Dexter Jettster",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Lama Su",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Taun We",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Jocasta Nu",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "R4-P17",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Wat Tambor",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "San Hill",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Shaak Ti",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Grievous",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Tarfful",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Raymus Antilles",
+        "films": [
+            "A New Hope",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 82,
+        "name": "Sly Moore",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "people"
+    },
+    {
+        "count": 60,
+        "name": "Tatooine",
+        "films": [
+            "A New Hope",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Alderaan",
+        "films": [
+            "A New Hope",
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Yavin IV",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Hoth",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Dagobah",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Bespin",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Endor",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Naboo",
+        "films": [
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Coruscant",
+        "films": [
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Kamino",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Geonosis",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Utapau",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Mustafar",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Kashyyyk",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Polis Massa",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Mygeeto",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Felucia",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Cato Neimoidia",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Saleucami",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Stewjon",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Eriadu",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Corellia",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Rodia",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Nal Hutta",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Dantooine",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Bestine IV",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Ord Mantell",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "unknown",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Trandosha",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Socorro",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Mon Cala",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Chandrila",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Sullust",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Toydaria",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Malastare",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Dathomir",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Ryloth",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Aleen Minor",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Vulpter",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Troiken",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Tund",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Haruun Kal",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Cerea",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Glee Anselm",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Iridonia",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Tholoth",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Iktotch",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Quermia",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Dorin",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Champala",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Mirial",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Serenno",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Concord Dawn",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Zolan",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Ojom",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Skako",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Muunilinst",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Shili",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Kalee",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 60,
+        "name": "Umbara",
+        "films": [],
+        "type": "planets"
+    },
+    {
+        "count": 6,
+        "name": "A New Hope",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 6,
+        "name": "The Empire Strikes Back",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 6,
+        "name": "Return of the Jedi",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 6,
+        "name": "The Phantom Menace",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 6,
+        "name": "Attack of the Clones",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 6,
+        "name": "Revenge of the Sith",
+        "type": "films",
+        "films": null
+    },
+    {
+        "count": 37,
+        "name": "Human",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Droid",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Wookie",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Rodian",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Hutt",
+        "films": [
+            "A New Hope",
+            "Return of the Jedi"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Yoda's species",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Trandoshan",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Mon Calamari",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Ewok",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Sullustan",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Neimodian",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Gungan",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Toydarian",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Dug",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Twi'lek",
+        "films": [
+            "Return of the Jedi",
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Aleena",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Vulptereen",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Xexto",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Toong",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Cerean",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Nautolan",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Zabrak",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Tholothian",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Iktotchi",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Quermian",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Kel Dor",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Chagrian",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Geonosian",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Mirialan",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Clawdite",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Besalisk",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Kaminoan",
+        "films": [
+            "Attack of the Clones"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Skakoan",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Muun",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Togruta",
+        "films": [
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Kaleesh",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 37,
+        "name": "Pau'an",
+        "films": [
+            "Revenge of the Sith"
+        ],
+        "type": "species"
+    },
+    {
+        "count": 39,
+        "name": "Sand Crawler",
+        "films": [
+            "A New Hope",
+            "Attack of the Clones"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "T-16 skyhopper",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "X-34 landspeeder",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "TIE/LN starfighter",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Snowspeeder",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "TIE bomber",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "AT-AT",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "AT-ST",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Storm IV Twin-Pod cloud car",
+        "films": [
+            "The Empire Strikes Back"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Sail barge",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Bantha-II cargo skiff",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "TIE/IN interceptor",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Imperial Speeder Bike",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Vulture Droid",
+        "films": [
+            "The Phantom Menace",
+            "Revenge of the Sith"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Multi-Troop Transport",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Armored Assault Tank",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Single Trooper Aerial Platform",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "C-9979 landing craft",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 39,
+        "name": "Tribubble bongo",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "vehicles"
+    },
+    {
+        "count": 36,
+        "name": "CR90 corvette",
+        "films": [
+            "A New Hope",
+            "Return of the Jedi",
+            "Revenge of the Sith"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Star Destroyer",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Sentinel-class landing craft",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Death Star",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Millennium Falcon",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Y-wing",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "X-wing",
+        "films": [
+            "A New Hope",
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "TIE Advanced x1",
+        "films": [
+            "A New Hope"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Executor",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Rebel transport",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Slave 1",
+        "films": [
+            "The Empire Strikes Back",
+            "Attack of the Clones"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Imperial shuttle",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "EF76 Nebulon-B escort frigate",
+        "films": [
+            "The Empire Strikes Back",
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Calamari Cruiser",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "A-wing",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "B-wing",
+        "films": [
+            "Return of the Jedi"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Republic Cruiser",
+        "films": [
+            "The Phantom Menace"
+        ],
+        "type": "starships"
+    },
+    {
+        "count": 36,
+        "name": "Droid control ship",
+        "films": [
+            "The Phantom Menace",
+            "Attack of the Clones",
+            "Revenge of the Sith"
+        ],
+        "type": "starships"
+    }
+]
