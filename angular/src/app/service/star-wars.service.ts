@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class StarWarsService {
-  private apiUrl = 'http://localhost:8080/search';
+  private apiUrl = 'http://localhost:8080/star-wars/search';
 
   constructor(private http: HttpClient) {}
 

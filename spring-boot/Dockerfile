@@ -5,7 +5,7 @@ FROM openjdk:17-jdk-slim
 WORKDIR /app
 
 # Copy the application JAR file to the container
-COPY target/StartWarsSearch-0.0.1-SNAPSHOT.jar app.jar
+COPY target/StarWarsSearch-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose the port the application runs on
 EXPOSE 8080
