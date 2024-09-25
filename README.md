@@ -41,4 +41,9 @@ Finally, the application has been dockerized and communication between the UI an
 1. Singleton Pattern : Services created in Angular app such as Toast Service, Search Service   
 2. Inversion of Control Pattern: Dependency injection in Angular App such as using HttpClient   
 3. Observer Pattern:  EventEmitter used in Angular app to toggle offline mode and listened to be the Search Component   
-4. Factory Method Pattern : Object creation in Java layer for all SWAPI objects like people, planet etc extending from entity   
+4. Factory Method Pattern : Object creation in Java layer for all SWAPI objects like people, planet etc extending from entity
+
+## Sequency Diagram of Application
+
+<img width="888" alt="Screenshot 2024-09-25 at 8 21 06 AM" src="https://github.com/user-attachments/assets/479ec064-b354-4133-a39c-68206e7bc98e">
+
