@@ -45,5 +45,5 @@ Finally, the application has been dockerized and communication between the UI an
 
 ## Sequence Diagram of Application
 
-<img width="888" alt="Screenshot 2024-09-25 at 8 21 06 AM" src="https://github.com/user-attachments/assets/479ec064-b354-4133-a39c-68206e7bc98e">
+<img width="888" alt="Screenshot 2024-09-25 at 8 23 35 AM" src="https://github.com/user-attachments/assets/254606c4-5aa8-4cfa-9db9-5ff402dc3086">
 
